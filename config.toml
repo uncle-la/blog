@@ -1,0 +1,28 @@
+baseURL = "https://uncle.la/"
+languageCode = "en-us"
+title = "Unker KennyD"
+theme = "kiss"
+
+Paginate = 5 # Number of posts per page
+enableRobotsTXT = true
+
+[params.rss] # Adding this tag enables RSS feed
+includeContent = true # Includes whole content in rss
+authorName = "kennethlimcp" # Author full name
+
+[params.info]
+adsense = "" # Adsense ID (ID only, without ca-pub-)
+enableSocial = true # Adds OpenGraph and Twitter cards
+homeTitle = "kennethlimcp" # Title for home page
+poweredby = true # Adds powered by hugo and kiss below Copyright
+related = true # Includes related articles at the bottom of the article
+codeCopy = true # Add copy button above code blocks
+
+[params.social]
+twitter = "kennethlimcp"
+github = "kennethlimcp"
+linkedin = "kennethlimcp"
+rss = "index.xml" # Add this to show RSS button in social.
+
+[params.social.config]
+platforms = ["github","linkedin","twitter"]
