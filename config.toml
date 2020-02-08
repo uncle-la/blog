@@ -2,6 +2,7 @@ baseURL = "https://www.uncle.la"
 languageCode = "en-us"
 title = "Unker KennyD"
 theme = "kiss"
+googleAnalytics = "UA-69931864-1"
 
 Paginate = 5 # Number of posts per page
 enableRobotsTXT = true
@@ -13,7 +14,6 @@ authorName = "kennethlimcp" # Author full name
 [params.info]
 adsense = "" # Adsense ID (ID only, without ca-pub-)
 enableSocial = true # Adds OpenGraph and Twitter cards
-googleAnalytics = "UA-69931864-1"
 homeTitle = "kennethlimcp" # Title for home page
 poweredby = true # Adds powered by hugo and kiss below Copyright
 related = true # Includes related articles at the bottom of the article
