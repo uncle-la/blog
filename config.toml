@@ -1,4 +1,4 @@
-baseURL = "https://uncle.la/"
+baseURL = "https://www.uncle.la"
 languageCode = "en-us"
 title = "Unker KennyD"
 theme = "kiss"
@@ -13,6 +13,7 @@ authorName = "kennethlimcp" # Author full name
 [params.info]
 adsense = "" # Adsense ID (ID only, without ca-pub-)
 enableSocial = true # Adds OpenGraph and Twitter cards
+googleAnalytics = "UA-69931864-1"
 homeTitle = "kennethlimcp" # Title for home page
 poweredby = true # Adds powered by hugo and kiss below Copyright
 related = true # Includes related articles at the bottom of the article
@@ -26,3 +27,4 @@ rss = "index.xml" # Add this to show RSS button in social.
 
 [params.social.config]
 platforms = ["github","linkedin","twitter"]
+
