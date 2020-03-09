@@ -11,7 +11,7 @@ if [ -z "$1" ]; then
 	exit 1
 fi
 
-printf "\033[0;32m\nCreating a new markdown file in $PATH[0m\n"
+printf "\033[0;32m\nCreating a new markdown file in $PATH\033[0m\n"
 
 # Build the project.
 /usr/local/bin/hugo new $PATH/$1.md
