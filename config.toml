@@ -4,7 +4,7 @@ title = "Unker KennyD"
 theme = "kiss"
 googleAnalytics = "UA-69931864-1"
 
-Paginate = 5 # Number of posts per page
+Paginate = 10 # Number of posts per page
 enableRobotsTXT = true
 
 [blackfriday]

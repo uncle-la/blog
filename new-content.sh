@@ -14,4 +14,4 @@ fi
 printf "\033[0;32m\nCreating a new markdown file in $PATH\033[0m\n"
 
 # Build the project.
-/usr/local/bin/hugo new $PATH/$1.md
+/usr/local/bin/hugo new "$PATH/$1.md"

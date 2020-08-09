@@ -18,11 +18,11 @@ Brilliant :D
 
 The Saturday assembly process was surprisingly fast. All it was 1 x me and no more than 10 minutes to get the chair fixed up.  
 
-![chair-assembly](//img/active-sitting-chair/chair-assembly.jpg)
+![chair-assembly](/img/active-sitting-chair/chair-assembly.jpg)
 
 Welcoming my new active sitting chair to the workdesk! 🎉
 
-![chair-workdesk](//img/active-sitting-chair/chair-workdesk.jpg)
+![chair-workdesk](/img/active-sitting-chair/chair-workdesk.jpg)
 
 
 
